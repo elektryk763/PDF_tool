@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projekty\\PDF tool\\WpfApp1\\WpfApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Projekty\\PDF tool\\WpfApp1\\WpfApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekty\\PDF tool\\WpfApp1\\WpfApp1.csproj",
+        "projectName": "WpfApp1",
+        "projectPath": "C:\\Projekty\\PDF tool\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\ZBUD_Marcin\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekty\\PDF tool\\WpfApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZBUD_Marcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "PdfSharp": {
+              "target": "Package",
+              "version": "[1.50.5147, )"
+            },
+            "devexpress.wpf.charts": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "devexpress.wpf.controls": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

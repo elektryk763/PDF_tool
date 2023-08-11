@@ -1,0 +1,144 @@
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Data.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Controls.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Core.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Office.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Charts.Designer.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Charts.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Docking.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Layout.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.DocumentViewer.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.Core.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.Extensions.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.LayoutControl.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Printing.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.PropertyGrid.v23.1.dll
+C:\Users\ZBUD_Marcin\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Ribbon.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Data.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Office.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Charts.Designer.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Charts.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Controls.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Core.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Docking.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Layout.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.DocumentViewer.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.Core.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.Extensions.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Grid.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.LayoutControl.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Printing.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.PropertyGrid.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Ribbon.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Projekty\PDF tool\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Projekty\PDF tool\WpfApp1\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll

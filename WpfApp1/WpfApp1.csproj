@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="devexpress.wpf.charts" Version="23.1.4" />
+    <PackageReference Include="devexpress.wpf.controls" Version="23.1.4" />
+    <PackageReference Include="PdfSharp" Version="1.50.5147" />
+  </ItemGroup>
+
+</Project>

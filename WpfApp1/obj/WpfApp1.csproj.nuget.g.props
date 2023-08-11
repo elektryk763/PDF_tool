@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ZBUD_Marcin\.nuget\packages\;C:\Program Files\DevExpress 23.1\Components\Offline Packages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\ZBUD_Marcin\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files\DevExpress 23.1\Components\Offline Packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.data.desktop\23.1.4\build\netcoreapp3.0\DevExpress.Data.Desktop.props" Condition="Exists('C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.data.desktop\23.1.4\build\netcoreapp3.0\DevExpress.Data.Desktop.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgDevExpress_Data Condition=" '$(PkgDevExpress_Data)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.data\23.1.4</PkgDevExpress_Data>
+    <PkgDevExpress_Wpf_Core Condition=" '$(PkgDevExpress_Wpf_Core)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.core\23.1.4</PkgDevExpress_Wpf_Core>
+    <PkgDevExpress_Wpf_Ribbon Condition=" '$(PkgDevExpress_Wpf_Ribbon)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.ribbon\23.1.4</PkgDevExpress_Wpf_Ribbon>
+    <PkgDevExpress_Wpf_PropertyGrid Condition=" '$(PkgDevExpress_Wpf_PropertyGrid)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.propertygrid\23.1.4</PkgDevExpress_Wpf_PropertyGrid>
+    <PkgDevExpress_Wpf_LayoutControl Condition=" '$(PkgDevExpress_Wpf_LayoutControl)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.layoutcontrol\23.1.4</PkgDevExpress_Wpf_LayoutControl>
+    <PkgDevExpress_Wpf_Grid_Core Condition=" '$(PkgDevExpress_Wpf_Grid_Core)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.grid.core\23.1.4</PkgDevExpress_Wpf_Grid_Core>
+    <PkgDevExpress_Wpf_DocumentViewer_Core Condition=" '$(PkgDevExpress_Wpf_DocumentViewer_Core)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.documentviewer.core\23.1.4</PkgDevExpress_Wpf_DocumentViewer_Core>
+    <PkgDevExpress_Wpf_Docking Condition=" '$(PkgDevExpress_Wpf_Docking)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.docking\23.1.4</PkgDevExpress_Wpf_Docking>
+    <PkgDevExpress_Wpf_Printing Condition=" '$(PkgDevExpress_Wpf_Printing)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.printing\23.1.4</PkgDevExpress_Wpf_Printing>
+    <PkgDevExpress_Wpf_Controls Condition=" '$(PkgDevExpress_Wpf_Controls)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.controls\23.1.4</PkgDevExpress_Wpf_Controls>
+    <PkgDevExpress_Wpf_Charts Condition=" '$(PkgDevExpress_Wpf_Charts)' == '' ">C:\Program Files\DevExpress 23.1\Components\Offline Packages\devexpress.wpf.charts\23.1.4</PkgDevExpress_Wpf_Charts>
+  </PropertyGroup>
+</Project>
